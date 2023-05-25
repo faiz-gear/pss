@@ -1,6 +1,6 @@
 {
-  "name": "pss",
-  "version": "1.0.0",
+  "name": "pss-cli",
+  "version": "1.0.1",
   "description": "A simple tool for quickly configuring your front-end project code specifications",
   "main": "setup.js",
   "type": "module",
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "luyao",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^5.2.0",
     "ora": "^6.3.1",
     "prompts": "^2.4.2"
