@@ -7,13 +7,13 @@
 在终端中运行以下命令：
 
 ```shell
-npm install -g pss
+npm install -g pss-cli
 ```
 
 或者
 
 ```shell
-yarn global add pss
+yarn global add pss-cli
 ```
 
 ### 使用
@@ -21,11 +21,11 @@ yarn global add pss
 在终端中进入你的项目根目录，然后运行以下命令：
 
 ```shell
-pss
+pss-cli
 ```
 
 ### 代码提交
 
 ```shell
-pnpm commit 
+pnpm commit
 ```
