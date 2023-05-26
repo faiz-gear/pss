@@ -23,3 +23,9 @@ yarn global add pss
 ```shell
 pss
 ```
+
+### 代码提交
+
+```shell
+pnpm commit 
+```

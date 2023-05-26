@@ -1,6 +1,6 @@
 {
   "name": "pss-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple tool for quickly configuring your front-end project code specifications",
   "main": "setup.js",
   "type": "module",
